@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Paulo Dérick Silva dos Anjos, tenho 24 anos e sou natural do Oriximiná-PA. Atualmente, estou cursando Sistemas de Informação na Universidade Federal do Oeste do Pará. Sou apaixonado por tecnologia e compartilho meus projetos nesse perfil.
+Me chamo Paulo Dérick Silva dos Anjos, tenho 25 anos e sou natural do Oriximiná-PA. Atualmente, estou cursando Sistemas de Informação na Universidade Federal do Oeste do Pará. Sou apaixonado por tecnologia e compartilho meus projetos nesse perfil.
 <p align="left">
     <a href="https://github.com/paulo-anjos-dev?tab=repositories&sort=stargazers">
         <img 
@@ -118,6 +118,16 @@ Me chamo Paulo Dérick Silva dos Anjos, tenho 24 anos e sou natural do Oriximin�
 
 ---
 
+### 🧠 Softskills
+
+* **Pensamento Crítico:** 
+* **Proatividade e Autonomia:**
+* **Colaboração e Comunicação:**
+* **Atenção aos Detalhes (Qualidade do Código):**
+* **Gerenciamento de Tempo e Priorização:**
+* **Resiliência e Persistência:**
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -125,7 +135,7 @@ Me chamo Paulo Dérick Silva dos Anjos, tenho 24 anos e sou natural do Oriximin�
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=paulo-anjos-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+        src="https://github-readme-stats.vercel.app/api?username=paulo-anjos-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=0" 
         alt="GitHub Stats" 
         height="200"
       />
