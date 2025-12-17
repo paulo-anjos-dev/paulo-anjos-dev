@@ -135,7 +135,7 @@ Me chamo Paulo D√©rick Silva dos Anjos, tenho 25 anos e sou natural do Oriximin√
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=paulo-anjos-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=0" 
+        src="https://github-readme-stats.vercel.app/api?username=paulo-anjos-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=1800" 
         alt="GitHub Stats" 
         height="200"
       />
