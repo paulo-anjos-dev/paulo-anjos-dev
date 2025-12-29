@@ -66,6 +66,14 @@ Me chamo Paulo DÃ©rick Silva dos Anjos, tenho 25 anos e sou natural do OriximinÃ
 />
 <img 
     align="left" 
+    alt="Spring"
+    title="Spring" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -135,19 +143,18 @@ Me chamo Paulo DÃ©rick Silva dos Anjos, tenho 25 anos e sou natural do OriximinÃ
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=paulo-anjos-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=1800" 
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=paulo-anjos-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
         alt="GitHub Stats" 
         height="200"
       />
     </td>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-anjos-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paulo-anjos-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
         alt="Tecnologias"
         height="200"
       />
     </td>
   </tr>
 </table>
-
 </p>
